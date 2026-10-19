@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+PyYAML
+networkx
+Pillow
+imageio
+imageio-ffmpeg
+pytest
